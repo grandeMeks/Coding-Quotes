@@ -2,7 +2,7 @@
 
 A simple app for generating random quotes.
 
-# User Stores: 
+# User Stories: 
 
 - User gets a random programming/coding quote on every click.
 
