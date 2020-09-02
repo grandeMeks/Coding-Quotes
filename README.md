@@ -1,5 +1,6 @@
 # Coding-Quotes
-Coding Quotes Web App
-Hello!
 
-This is simple web app that generates random programming quotes for the user.
+# 💬 CodingQuotes
+
+# User Stores: 
+- User gets a random programming/coding quote on every click.
