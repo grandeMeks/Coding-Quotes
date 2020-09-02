@@ -14,3 +14,4 @@ A simple app for generating random quotes.
 HTML, CSS, Vanilla JS
 
 # License 
+[MIT](https://choosealicense.com/licenses/mit/)
