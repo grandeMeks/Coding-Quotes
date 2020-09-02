@@ -1,4 +1,4 @@
-# 💬 Coding-Quotes
+# 📜 Coding-Quotes
 
 A simple app for generating random quotes.
 
